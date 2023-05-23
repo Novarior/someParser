@@ -1,0 +1,9 @@
+.vscode
+bin
+Build
+main.dSYM
+main 
+makefile
+CmakeCache.txt
+CmakeFiles
+cmake_install.cmake
